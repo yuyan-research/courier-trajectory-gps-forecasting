@@ -1,0 +1,46 @@
+# Local Python and tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.env.*
+
+# Private source data, identifiers, model weights and derived arrays
+raw/
+data/
+private/
+derived/
+caches/
+cache/
+checkpoints/
+output/
+outputs/
+work/
+*.pkl
+*.pkl.*
+*.xz
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.npz
+*.npy
+*.parquet
+*.bin
+*.db
+*.sqlite
+*courier*manifest*.csv
+*split_manifest*.csv
+*.log
+
+# Archive files
+*.zip
+*.tar
+*.gz
+
+# Identity-bearing scanner outputs
+courier_memo_dictionary.tsv

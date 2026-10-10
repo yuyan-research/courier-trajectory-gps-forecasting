@@ -1,0 +1,6 @@
+# Runtime dependencies for the scientific modules (not a pinned CUDA environment).
+numpy>=1.26
+pandas>=2.2
+torch>=2.2
+numba>=0.59
+matplotlib>=3.8
