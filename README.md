@@ -105,7 +105,8 @@ run the raw-object scanner on a file with an unverified binary layout.
 
 ## Rights and licensing
 
-No software license is included in this distribution. The rights holders
-retain their applicable rights; copying, modification and redistribution require
-appropriate permission. The third-party LaDe dataset is not bundled and is
-governed by its own terms.
+Copyright (c) 2026 YU YAN.
+
+The source code and accompanying documentation in this repository are released under the MIT License. See [LICENSE](LICENSE) for the full license text.
+
+The third-party LaDe dataset is not distributed with this repository and remains subject to its original provider's terms.
